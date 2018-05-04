@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=RH5PlusFIX
+name=Redmi 5 plus SafetyNet fix
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=RuIvan
+description=editing build.prop with the addition of information about the licensed firmware
 minMagisk=1500
